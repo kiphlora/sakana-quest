@@ -1,7 +1,7 @@
 Sakana Quest
 =
 
-Sakana Quest is an adventure system that combines open-world exploration, complex puzzle battles, survival, and discovery.
+Sakana Quest is an adventure system that combines open-world exploration, complex puzzle battles, and survival mechanisms into a deep and sprawling world full of myths and legends, ancient civilizations and relics, economic and political strife, and mysteries to discover.
 
 ## Themes ##
 The world of Sakana Quest is filled with fish (sakana = fish in Japanese). But not the kind of fish people may be used to. The various areas, cities, towns, villages, tribes, and biomes are home to a combination of mechanical and organic creatures; most of which are fish, or fish-like. There is no magic in the world of Sakana Quest, though there is a wealth of technology (primitive -> ancient -> modern -> advanced).
