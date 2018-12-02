@@ -6,10 +6,10 @@ Sakana Quest is an adventure system that combines open-world exploration, comple
 ## Themes ##
 The world of Sakana Quest is filled with fish (sakana = fish in Japanese). But not the kind of fish people may be used to. The various areas, cities, towns, villages, tribes, and biomes are home to a combination of mechanical and organic creatures; most of which are fish, or fish-like. There is no magic in the world of Sakana Quest, though there is a wealth of technology (primitive -> ancient -> modern -> advanced).
 
-## Story ##
-Terra Pescaria is a continent that is a forbidden to anyone other than the explorers of the Angler Society (see the hook and bait branches). At face value, this has entirely to do with conservation and safety concerns; Terra Pescaria is largely unexplored and rumors place great danger there. As such, the Angler Society's Pole Branch
-
 ### The Angler Society ###
+The Angler Society is an ancient organization with a deep history. After many growing pains, the Angler Society evolved into an organization aimed at scientific discovery, conservation, and social good. They are mostly self-funded, through a combination of trusts, a parent-child "tax" system for each for-profit company that spawns from the R&D efforts of the Hook and Bait Branch, and donations from individuals and organizations. For millenia, they have sent members of the Hook and Bait Branch to explore Terra Pescaria. So much of our modern technology is due to advancements made by these brave groups of women and men. And the cost has been heavy; the Angler Society, in an effort to be more transparent, has provided statistics on H&B's abysmally high death rates for field members for the past 214 years. In short, fewer than 0.1% of the people have returned safely to Angler Society HQ from Terra Pescaria over that period, translating into about 27 people over the past 200+ years, and, though we're only guessing, probably a few hundred more if we include all expeditions from three or four thousand years ago to now. As a result, the Angler Society has marked Terra Pescaria as forbidden to all but the explorers of the Hook and Bait Branch.
+
+#### Branches ####
 There are four branches of the Angler Society: The Pole Branch, The Reel Branch, The Line Branch, and The Hook and Bait Branch.
 
 ##### The Pole Branch #####
@@ -23,3 +23,6 @@ The Line Branch is where the majority of the population exists. To fit the metap
 
 ##### The Hook and Bait Branch #####
 The Hook and Bait Branch is where most of the Development and Research, respectively, occur. It's also where the explorers are recruited and trained, as many of the explorers are research scientists and biomimicry engineers who do field work.
+
+## Background & Story ##
+Terra Pescaria is a continent that is a forbidden to anyone other than the explorers of the Angler Society due to very low return rates of explorers. And those who have returned share tales of places and creatures so remarkable that they excite the imagination. Terra Pescaria is the most alluring mystery of them all, and has led to a flurry of rumors, conspiracy theories, and, of course, media products (books, movies, comics, and even games).
